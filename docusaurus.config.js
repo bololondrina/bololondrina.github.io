@@ -105,7 +105,6 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} iFood. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
