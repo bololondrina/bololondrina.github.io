@@ -58,15 +58,13 @@ function Feature({title, image, description, link}: FeatureItem) {
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
-          <div className="row">
-            <div className={clsx("col col--12 center-btn", styles.center_btn)}>
-              {data && <a href={link} className="button button--primary">
-                Encomendar
-              </a>}
-            </div>
+        <div className="row">
+          <div className={clsx("col col--12 center-btn", styles.center_btn)}>
+            {link && <a href={link} className="button button--primary">
+              Encomendar
+            </a>}
           </div>
         </div>
-
       </div>
     </div>
   );
