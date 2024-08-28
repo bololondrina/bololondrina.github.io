@@ -41,9 +41,8 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Open Source',
         logo: {
-          alt: 'Go to home',
+          alt: 'Página Inicial',
           src: 'img/logo.svg',
         },
         items: [
