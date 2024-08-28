@@ -32,14 +32,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/ifood/ifood.github.io/edit/main/',
         },
         blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/ifood/ifood.github.io/edit/main/blog/',
+          showReadingTime: false,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -63,6 +58,10 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'About',
+          },{
+            type: 'blog',
+            position: 'left',
+            label: 'Blog',
           },
           {
             to: '/projects',
