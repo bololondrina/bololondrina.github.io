@@ -68,8 +68,8 @@ const config = {
             label: 'Projects',
           },
           {
-            href: 'https://github.com/ifood',
-            label: 'GitHub',
+            to: '/docs/encomendar',
+            label: 'Como encomendar',
             position: 'right',
           },
         ],
