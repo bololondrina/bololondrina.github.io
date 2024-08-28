@@ -16,9 +16,6 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'iFood', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
-  themes: [
-    '@docusaurus/theme-classic'
-  ],
   presets: [
     [
       '@docusaurus/preset-classic',
