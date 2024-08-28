@@ -16,12 +16,6 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'iFood', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
-  customFields: {
-    githubUrl: 'https://github.com/login/oauth',
-    githubClientId: 'bb7a22269b61fc8ca5bd',
-    claUrl: 'https://raw.githubusercontent.com/ifood/.github/main/CLA.md',
-    ifoodServiceUrl: 'https://infra-api.ifoodcorp.com.br/opensource/app/v1/api'
-  },
   themes: [
     '@ifood/docusaurus-theme'
   ],
