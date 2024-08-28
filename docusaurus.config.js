@@ -54,11 +54,16 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
+            to: '/docs/bolos',
             position: 'left',
-            label: 'About',
-          },{
+            label: 'Bolos',
+          },
+          {
+            to: '/docs/doces',
+            position: 'left',
+            label: 'Doces',
+          },
+          {
             to: '/blog',
             position: 'left',
             label: 'Blog',
@@ -82,8 +87,12 @@ const config = {
             title: 'Site Map',
             items: [
               {
-                label: 'Docs',
-                to: '/docs/intro',
+                label: 'Bolos',
+                to: '/docs/bolos',
+              },
+              {
+                label: 'Doces',
+                to: '/docs/doces',
               },
             ],
           },
