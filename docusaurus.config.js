@@ -17,7 +17,7 @@ const config = {
   organizationName: 'iFood', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themes: [
-    '@ifood/docusaurus-theme'
+    '@docusaurus/theme-classic'
   ],
   presets: [
     [
