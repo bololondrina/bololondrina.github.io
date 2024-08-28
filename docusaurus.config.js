@@ -5,15 +5,12 @@ require('dotenv').config();
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'iFood Open Source',
-  tagline: 'iFood Open Source',
-  url: 'https://ifood.github.io',
+  title: 'Bolo Londrina',
+  url: 'https://bololondrina.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'iFood', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -26,6 +23,7 @@ const config = {
           showReadingTime: false,
         },
         theme: {
+          disableSwitch: true,
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
