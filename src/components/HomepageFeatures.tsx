@@ -11,6 +11,7 @@ import styles from './HomepageFeatures.module.css';
 type FeatureItem = {
   title: string;
   image: string;
+  link: string;
   description: JSX.Element;
 };
 
@@ -18,6 +19,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Easy to Use',
     image: '/img/undraw_docusaurus_mountain.svg',
+    link: '/img/undraw_docusaurus_mountain.svg',
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -47,7 +49,7 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({title, image, description}: FeatureItem) {
+function Feature({title, image, description, link}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
@@ -56,6 +58,15 @@ function Feature({title, image, description}: FeatureItem) {
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
+          <div className="row">
+            <div className={clsx("col col--12 center-btn", styles.center_btn)}>
+              {data && <a href={link} className="button button--primary">
+                Encomendar
+              </a>}
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
   );

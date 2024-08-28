@@ -59,7 +59,7 @@ const config = {
             position: 'left',
             label: 'About',
           },{
-            type: 'blog',
+            to: '/blog',
             position: 'left',
             label: 'Blog',
           },
