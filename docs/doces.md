@@ -34,3 +34,7 @@ Brigadeiro branco finalizado com pó de decoração cor neon a definir
 
 **Brigadeiro Pistache** R$200,00 / cento
 Refinado e levemente crocante, com o sabor único do pistache, ideal para quem busca algo sofisticado e diferente
+
+**Copinho de Uva** R$250,00 / cento
+
+**Copinho de Cereja** R$300,00 / cento
