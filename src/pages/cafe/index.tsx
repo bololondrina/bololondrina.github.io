@@ -28,9 +28,9 @@ export default function Projects(): JSX.Element {
         <div className={clsx("container padding-top--lg padding-bottom--xl")}>
           <h1>Café da Manhã</h1>
           <div className="row margin-top--md">
-            {!!data.length && data.map((category) => (
+            {data.map((category) => (
               <h2>{category.name}</h2>
-               {!!data.items.length && data.items.map((item) => (
+               data.items.map((item) => (
                  <div className="col col--3 margin-top--lg">
                   <div className={styles.project_card}>
                     <h3>{item.name}</h3>
@@ -38,7 +38,7 @@ export default function Projects(): JSX.Element {
                     <p>{item.price}</p>
                   </div>
                 </div>
-              ))}
+              ))
             ))}
           </div>
         </div>
