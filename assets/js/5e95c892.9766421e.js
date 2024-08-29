@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkifood_github_io=self.webpackChunkifood_github_io||[]).push([[647],{7121:(e,s,r)=>{r.r(s),r.d(s,{default:()=>d});r(6540);var u=r(8215),i=r(1003),o=r(7559),t=r(2831),a=r(781),c=r(4848);function d(e){return(0,c.jsx)(i.e3,{className:(0,u.A)(o.G.wrapper.docsPages),children:(0,c.jsx)(a.A,{children:(0,t.v)(e.route.routes)})})}}}]);
