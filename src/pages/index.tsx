@@ -22,9 +22,9 @@ function HomepageHeader() {
         </div>
       </div>
       <div class="carousel">
-        <input type="radio" name="carousel" id="slide1" checked>
-        <input type="radio" name="carousel" id="slide2">
-        <input type="radio" name="carousel" id="slide3">
+        <input type="radio" name="carousel" id="slide1" checked />
+        <input type="radio" name="carousel" id="slide2" />
+        <input type="radio" name="carousel" id="slide3" />
         <div class="slides">
           <div class="slide">
             <img src="https://placehold.co/600x400/EEE/31343C" alt="Slide 1" />
