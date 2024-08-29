@@ -29,7 +29,7 @@ export default function Projects(): JSX.Element {
           <h1>Café da Manhã</h1>
           <div className="row margin-top--md">
             {data.map((category) => (
-              <div key={category.name}>
+              <div className="col col--12 margin-top--lg">
                 <h2>{category.name}</h2>
                 {category.items.map((item) => (
                   <div className="col col--3 margin-top--lg" key={item.name}>
