@@ -23,7 +23,6 @@ const config = {
           showReadingTime: false,
         },
         theme: {
-          disableSwitch: true,
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
