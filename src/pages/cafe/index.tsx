@@ -29,16 +29,18 @@ export default function Projects(): JSX.Element {
           <h1>Café da Manhã</h1>
           <div className="row margin-top--md">
             {data.map((category) => (
-              <h2>{category.name}</h2>
-               data.items.map((item) => (
-                 <div className="col col--3 margin-top--lg">
-                  <div className={styles.project_card}>
-                    <h3>{item.name}</h3>
-                    <p>{item.description}</p>
-                    <p>{item.price}</p>
+              <div key={category.name}>
+                <h2>{category.name}</h2>
+                {category.items.map((item) => (
+                  <div className="col col--3 margin-top--lg" key={item.name}>
+                    <div className={styles.project_card}>
+                      <h3>{item.name}</h3>
+                      <p>{item.description}</p>
+                      <p>{item.price}</p>
+                    </div>
                   </div>
-                </div>
-              ))
+                ))}
+              </div>
             ))}
           </div>
         </div>
