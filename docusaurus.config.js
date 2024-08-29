@@ -68,6 +68,7 @@ const config = {
       },
       footer: {
         style: 'dark',
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
         links: [
           {
             title: 'Mapa do Site',
