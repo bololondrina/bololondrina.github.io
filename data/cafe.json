@@ -6,29 +6,29 @@
 			{
 				"name": "Ovos mexidos",
 				"description": "2 ovos cremosos",
-				"price": "R$ 9,50",
+				"price": "R$ 9,50"
 			},
 			{
 				"name": "Ovos mexidos completo",
 				"description": "2 ovos cremosos com bacon e 2 toasted",
-				"price": "R$ 15,00",
+				"price": "R$ 15,00"
 			},
 			{
 				"name": "Pão casquinha",
 				"description": "pão de forma especial com mussarela e requeijão",
-				"price": "R$ 13,00",
+				"price": "R$ 13,00"
 			},
 			{
-				"name": "waffles pão de queijo",
+				"name": "Waffles pão de queijo",
 				"description": "2 fatias com requeijão ou doce de leite",
-				"price": "R$ 12,50",
+				"price": "R$ 12,50"
 			},
 			{
-				"name": "waffles pão de queijo recheado",
+				"name": "Waffles pão de queijo recheado",
 				"description": "2 fatias com mussarela e peito de peru",
-				"price": "R$ 14,00",
-			},
-		],
+				"price": "R$ 14,00"
+			}
+		]
 	},
 	{
 		"name": "Doces",
@@ -36,21 +36,21 @@
 
 			{
 				"name": "Croissant chocolate",
-				"price": "R$ 9,50",
+				"price": "R$ 9,50"
 			},
 			{
 				"name": "Muffin Mirtilo",
-				"price": "R$ 6,00",
+				"price": "R$ 6,00"
 			},
 			{
-				"name": "WAFFLEs COM DOCE DE LEITE",
-				"price": "R$ 12,50",
+				"name": "Waffles com doce de leite",
+				"price": "R$ 12,50"
 			},
 			{
-				"name": "WAFFLES COM GELÉIA ARTESANAL",
+				"name": "Waffles com geléia artesanal",
 				"description": "verique a fruta da estação",
-				"price": "R$ 12,50",
-			},
+				"price": "R$ 12,50"
+			}
 		]
 	},
 	{
@@ -59,24 +59,24 @@
 
 			{
 				"name": "Manhã Atômica",
-				"description": "ovos mexidos completo + waffles doce",
-				"price": "R$ 24,00",
+				"description": "Ovos mexidos completo + waffles doce",
+				"price": "R$ 24,00"
 			},
 			{
-				"name": "dos Deuses",
-				"description": "pão casquinha + Croissant chocolate",
-				"price": "R$ 20,00",
+				"name": "Dos Deuses",
+				"description": "Pão casquinha + Croissant chocolate",
+				"price": "R$ 20,00"
 			},
 			{
-				"name": "fitness",
+				"name": "Fitness",
 				"description": "Ovos mexidos + muffin",
-				"price": "R$ 13,00",
+				"price": "R$ 13,00"
 			},
 			{
 				"name": "Waffle Lovers",
-				"description": "waffle pão de queijo recheado + WAFFLEs DOCE",
-				"price": "R$ 25,00",
-			},
+				"description": "wQffle pão de queijo recheado + WAFFLEs DOCE",
+				"price": "R$ 25,00"
+			}
 		]
 	}
 ]
