@@ -68,7 +68,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Av. São João 97 - Londrina - PR`,
         links: [
           {
             title: 'Mapa do Site',
