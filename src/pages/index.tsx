@@ -27,13 +27,13 @@ function HomepageHeader() {
         <input type="radio" name="carousel" id="slide3">
         <div class="slides">
           <div class="slide">
-            <img src="image1.jpg" alt="Slide 1">
+            <img src="https://placehold.co/600x400/EEE/31343C" alt="Slide 1" />
           </div>
           <div class="slide">
-            <img src="image2.jpg" alt="Slide 2">
+            <img src="https://placehold.co/600x400/DED/31343C" alt="Slide 2" />
           </div>
           <div class="slide">
-            <img src="image3.jpg" alt="Slide 3">
+            <img src="https://placehold.co/600x400/ADA/31343C" alt="Slide 3" />
           </div>
         </div>
         <div class="navigation">
