@@ -10,7 +10,7 @@ import styles from "./style.module.css";
 
 export default function Projects(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
-  const requestUrl = useBaseUrl("/data/projects.json");
+  const requestUrl = useBaseUrl("/data/cafe.json");
   const [data, setData] = useState([]);
 
   useEffect(() => {
