@@ -11,35 +11,12 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <h1 className="hero__title">Novidades</h1>
+        <p className="hero__subtitle">
+          Venha experimentar nosso delicioso café da manhã, servido todos os sábados, das 08h00 às 12h00
+        </p>
         <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/projects">
-            Explore Projects
-          </Link>
-        </div>
-      </div>
-      <div class="carousel">
-        <input type="radio" name="carousel" id="slide1" checked />
-        <input type="radio" name="carousel" id="slide2" />
-        <input type="radio" name="carousel" id="slide3" />
-        <div class="slides">
-          <div class="slide">
-            <img src="https://placehold.co/600x400/EEE/31343C" alt="Slide 1" />
-          </div>
-          <div class="slide">
-            <img src="https://placehold.co/600x400/DED/31343C" alt="Slide 2" />
-          </div>
-          <div class="slide">
-            <img src="https://placehold.co/600x400/ADA/31343C" alt="Slide 3" />
-          </div>
-        </div>
-        <div class="navigation">
-          <label for="slide1"></label>
-          <label for="slide2"></label>
-          <label for="slide3"></label>
+          <Link className="button button--secondary button--lg" to="/cafe">Ver mais</Link>
         </div>
       </div>
     </header>
