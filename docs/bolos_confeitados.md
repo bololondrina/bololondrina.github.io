@@ -112,7 +112,5 @@ Creme de nutella, creme de chocolate branco, pedaços de Kinder Bueno na decora�
 
 A decoração do seu bolo é tão única quanto a sua celebração! Para que possamos atender exatamente às suas expectativas, é muito importante que você compartilhe conosco todas as referências que tiver. Se possível, envie imagens ou descreva detalhadamente o tema da festa, as cores preferidas, e qualquer outro detalhe que deseja ver refletido na decoração. Assim, garantimos que o bolo estará perfeitamente alinhado com o estilo do seu evento.
 
-<img
-  src={useBaseUrl("img/bolos/bolo1.png")}
-  alt="Example banner"
-/>
+![Example banner](img/bolos/bolo1.png)
+
