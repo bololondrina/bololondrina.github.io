@@ -26,20 +26,20 @@ export default function Projects(): JSX.Element {
     <Layout title={`Café da Manhã | ${siteConfig.title}`}>
       <main>
         <div className={clsx("container padding-top--lg padding-bottom--xl")}>
-          <h1>Cardápio</h1>
+          <h1>Café da Manhã</h1>
           <div className="row margin-top--md">
-            <div className="col col--3 margin-top--lg">
-              <h3>Panquecas de Frutas Vermelhas</h3>
-              <p>Panquecas fofinhas servidas com uma generosa porção de frutas vermelhas frescas e mel. Acompanhadas de creme chantilly e uma pitada de açúcar de confeiteiro, são perfeitas para quem ama um café da manhã doce e leve.</p>
-            </div>
-            <div className="col col--3 margin-top--lg">
-              <h3>Panquecas de Frutas Vermelhas</h3>
-              <p>Panquecas fofinhas servidas com uma generosa porção de frutas vermelhas frescas e mel. Acompanhadas de creme chantilly e uma pitada de açúcar de confeiteiro, são perfeitas para quem ama um café da manhã doce e leve.</p>
-            </div>
-            <div className="col col--3 margin-top--lg">
-              <h3>Panquecas de Frutas Vermelhas</h3>
-              <p>Panquecas fofinhas servidas com uma generosa porção de frutas vermelhas frescas e mel. Acompanhadas de creme chantilly e uma pitada de açúcar de confeiteiro, são perfeitas para quem ama um café da manhã doce e leve.</p>
-            </div>
+            {!!data.length && data.map((category) => (
+              <h2>{category.name}</h2>
+               {!!data.items.length && data.items.map((item) => (
+                 <div className="col col--3 margin-top--lg">
+                  <div className={styles.project_card}>
+                    <h3>{item.name}</h3>
+                    <p>{item.description}</p>
+                    <p>{item.price}</p>
+                  </div>
+                </div>
+              ))}
+            ))}
           </div>
         </div>
       </main>
