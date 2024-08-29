@@ -6,33 +6,79 @@ sidebar_position: 1
 
 # Bolos confeitados
 
-Nossos bolos são feitos com todo o carinho e cuidado, exclusivamente sob encomenda, para garantir que você receba um produto fresco e personalizado. Cada bolo é criado exatamente como você deseja, desde o sabor até a decoração, tornando o seu momento ainda mais especial. Para que possamos entregar o melhor, pedimos que os pedidos sejam feitos com pelo menos um dia de antecedência.
+Nossos bolos são feitos com todo o carinho e cuidado, exclusivamente sob encomenda, para garantir que você receba um produto fresco e personalizado. Cada bolo é criado exatamente como você deseja, desde o sabor até a decoração, tornando o seu momento ainda mais especial. Para que possamos entregar o melhor, pedimos que os pedidos sejam feitos com pelo menos 2 dias de antecedência.
+
+## Recheios
+
+**Abacaxi** R$ 65,00 / kg
+Creme belga com pedaços de abacaxi
+
+**Abacaxi com Coco** R$ 68,00 / kg
+Creme de coco com pedaços de abacaxi
+
+**Abacaxi com Ameixa** R$ 68,00 / kg
+Creme belga com pedaços de abacaxi, brigadeiro de doce de leite com ameixa.
+
+**Alpino** R$ 70,00 / kg
+Creme de chocolate meio amargo sabor alpino
+
+**Cenoura** R$ 60,00 / kg
+Massa de cenoura com creme de chocolate
+
+**Chocolate** R$ 60,00 / kg
+Creme de chocolate nobre blend (meio amargo e ao leite)
+
+**Duo Mousse de Chocolate** R$ 68,00 / kg
+Mousse de chocolate meio amargo e mousse de chocolate branco
+
+**Floresta Negra** R$ 72,00 / kg
+Creme de nata com cerejas e creme de chocolate
+
+**Merengue de Morango** R$ 72,00 / kg
+Creme de nata, suspiros e morangos em pedaços
+
+**Creme de Leite Ninho com Geleia de Frutas Vermelhas** R$ 74,00 / kg
+Creme de leite ninho com geleia artesanal de frutas vermelhas
+
+**Creme de Leite Ninho com Geleia de Morango** R$ 70,00 / kg
+Creme de leite ninho com geleia artesanal de morango
+
+**Quatro Leites com Geleia de Frutas Vermelhas** R$ 74,00 / kg
+Creme com leite de coco, leite condensado, creme de leite, leite ninho, geleia artesanal de frutas vermelhas
+
+**Quatro Leites com Geleia de Morango** R$ 72,00 / kg
+Creme com leite de coco, leite condensado, creme de leite, leite ninho, geleia artesanal de morango
+
+**Prestígio** R$ 68,00 / kg
+Creme de coco e creme de chocolate
+
+**Chocolate com morangos** R$ 68,00 / kg
+Creme de chocolate nobre blend (meio amargo e ao leite) com morangos em pedaços
+
+**Kinder Bueno** R$ 80,00 / kg
+Creme de nutella, creme de chocolate branco, pedaços de Kinder Bueno na decoração
 
 ## Massa
 
-* **Pão de Ló Tradicional** - Leve e esponjosa, uma base clássica.
-* **Chocolate** - Rica e úmida, uma favorita entre os chocólatras.
-* **Baunilha** - Suave e aromática, combina com praticamente qualquer recheio e cobertura.
-* **Red Velvet** - Massa aveludada com um toque de cacau e cor vibrante.
-* **Cenoura** - Úmida e levemente adocicada, ótima com cobertura de chocolate.
-* **Limão** - Fresca e cítrica, ideal para quem prefere sabores menos doces.
-* **Amêndoa** - Levemente adocicada e com um toque de nozes, sofisticada.
-* **Coco** - Suave, com sabor tropical que agrada a muitos.
-* **Nozes** - Rico e encorpado, perfeito para ocasiões especiais.
-* **Fubá** - Tradicional e com um toque rústico, ideal para quem aprecia sabores brasileiros.
+**Chocolate** - Rica e úmida, uma favorita entre os chocólatras.
+**Baunilha** - Suave e aromática, combina com praticamente qualquer recheio e cobertura.
+**Red Velvet** - Massa aveludada com um toque de cacau e cor vibrante.
 
-## Cobertura
+## Coberturas
 
-* **Chantilly** - Leve e suave, ideal para decorações delicadas.
-* **Ganache de Chocolate** - Rico e cremoso, com um toque sofisticado.
-* **Buttercream** - Tradicional e versátil, pode ser tingido em diversas cores.
-* **Merengue Suíço** - Leve, brilhante e doce na medida certa.
-* **Cream Cheese** - Um toque levemente azedinho que contrasta bem com massas doces.
-* **Brigadeiro** - Cremosa e clássica, perfeita para um toque brasileiro.
-* **Doce de Leite** - Um clássico para quem ama sabores mais intensos.
-* **Fondant** - Liso e elegante, ideal para decorações mais elaboradas.
-* **Cobertura de Frutas Vermelhas** - Fresca e levemente ácida, combina com bolos mais leves.
-* **Caramelo Salgado** - Uma combinação irresistível de doce e salgado.
+**Acetato com fita**
+**Chantininho**
+**Merengue Suiço Maçaricado**
+
+## Adicionais
+
+**Brigadeiro** + R$ 1,00 / unid
+**Beijinho** + R$ 1,00 / unid
+**Granulado Split** + R$ 2,00 / kg
+**Raspas de Chocolate** + R$ 4,00 / kg
+**Morangos** + R$ 4,00 / kg
+**Kinder Bueno** + R$ 8,00 / kg
+**KitKat** + R$ 6,00 / kg
 
 ## Decoração
 

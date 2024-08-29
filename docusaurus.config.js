@@ -50,14 +50,14 @@ const config = {
             label: 'Doces',
           },
           {
-            to: '/blog',
+            to: '/docs/tortas',
             position: 'left',
-            label: 'Blog',
+            label: 'Tortas',
           },
           {
-            to: '/projects',
+            to: '/docs/lembrancinhas',
             position: 'left',
-            label: 'Projects',
+            label: 'Lembrancinhas',
           },
           {
             to: '/docs/encomendar',
@@ -70,24 +70,36 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Site Map',
+            title: 'Mapa do Site',
             items: [
               {
-                label: 'Bolos',
                 to: '/docs/bolos',
+                label: 'Bolos',
               },
               {
-                label: 'Doces',
                 to: '/docs/doces',
+                label: 'Doces',
+              },
+              {
+                to: '/docs/tortas',
+                label: 'Tortas',
+              },
+              {
+                to: '/docs/lembrancinhas',
+                label: 'Lembrancinhas',
+              },
+              {
+                to: '/docs/encomendar',
+                label: 'Como encomendar',
               },
             ],
           },
           {
-            title: 'Information',
+            title: 'Informações',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/ifood',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/thayhonoratoconfeitaria/',
               },
               {
                 label: 'Blog',
